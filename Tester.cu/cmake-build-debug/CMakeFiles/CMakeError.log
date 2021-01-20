@@ -1,0 +1,292 @@
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+1
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+
+
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+1
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+
+
+Determining if the CUDA compiler works failed with the following output:
+Change Dir: C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_7c836/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_7c836.dir\build.make CMakeFiles/cmTC_7c836.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CUDA object CMakeFiles/cmTC_7c836.dir/main.cu.obj
+C:\PROGRA~1\NVIDIA~2\CUDA\v11.1\bin\nvcc.exe     -x cu -c C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu\cmake-build-debug\CMakeFiles\CMakeTmp\main.cu -o CMakeFiles\cmTC_7c836.dir\main.cu.obj
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_7c836.dir\build.make:85: CMakeFiles/cmTC_7c836.dir/main.cu.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_7c836/fast] Error 2
+
+
+
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+1
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+
+
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+1
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+
+
+Determining if the CUDA compiler works failed with the following output:
+Change Dir: C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_03962/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_03962.dir\build.make CMakeFiles/cmTC_03962.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CUDA object CMakeFiles/cmTC_03962.dir/main.cu.obj
+C:\PROGRA~1\NVIDIA~2\CUDA\v11.1\bin\nvcc.exe     -x cu -c C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu\cmake-build-debug\CMakeFiles\CMakeTmp\main.cu -o CMakeFiles\cmTC_03962.dir\main.cu.obj
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_03962.dir\build.make:85: CMakeFiles/cmTC_03962.dir/main.cu.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_03962/fast] Error 2
+
+
+
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+1
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+
+
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+1
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+
+
+Determining if the CUDA compiler works failed with the following output:
+Change Dir: C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_8eb7b/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_8eb7b.dir\build.make CMakeFiles/cmTC_8eb7b.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CUDA object CMakeFiles/cmTC_8eb7b.dir/main.cu.obj
+C:\PROGRA~1\NVIDIA~2\CUDA\v11.1\bin\nvcc.exe     -x cu -c C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu\cmake-build-debug\CMakeFiles\CMakeTmp\main.cu -o CMakeFiles\cmTC_8eb7b.dir\main.cu.obj
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_8eb7b.dir\build.make:85: CMakeFiles/cmTC_8eb7b.dir/main.cu.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_8eb7b/fast] Error 2
+
+
+
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+1
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+
+
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+1
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+
+
+Determining if the CUDA compiler works failed with the following output:
+Change Dir: C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_df6c7/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_df6c7.dir\build.make CMakeFiles/cmTC_df6c7.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CUDA object CMakeFiles/cmTC_df6c7.dir/main.cu.obj
+C:\PROGRA~1\NVIDIA~2\CUDA\v11.1\bin\nvcc.exe     -x cu -c C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu\cmake-build-debug\CMakeFiles\CMakeTmp\main.cu -o CMakeFiles\cmTC_df6c7.dir\main.cu.obj
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_df6c7.dir\build.make:85: CMakeFiles/cmTC_df6c7.dir/main.cu.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_df6c7/fast] Error 2
+
+
+
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+1
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+
+
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+1
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+
+
+Determining if the CUDA compiler works failed with the following output:
+Change Dir: C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_648b6/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_648b6.dir\build.make CMakeFiles/cmTC_648b6.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CUDA object CMakeFiles/cmTC_648b6.dir/main.cu.obj
+C:\PROGRA~1\NVIDIA~2\CUDA\v11.1\bin\nvcc.exe     -x cu -c C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu\cmake-build-debug\CMakeFiles\CMakeTmp\main.cu -o CMakeFiles\cmTC_648b6.dir\main.cu.obj
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_648b6.dir\build.make:85: CMakeFiles/cmTC_648b6.dir/main.cu.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_648b6/fast] Error 2
+
+
+
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+1
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+
+
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+1
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+
+
+Determining if the CUDA compiler works failed with the following output:
+Change Dir: C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_54905/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_54905.dir\build.make CMakeFiles/cmTC_54905.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CUDA object CMakeFiles/cmTC_54905.dir/main.cu.obj
+C:\PROGRA~1\NVIDIA~2\CUDA\v11.1\bin\nvcc.exe     -x cu -c C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu\cmake-build-debug\CMakeFiles\CMakeTmp\main.cu -o CMakeFiles\cmTC_54905.dir\main.cu.obj
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_54905.dir\build.make:85: CMakeFiles/cmTC_54905.dir/main.cu.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_54905/fast] Error 2
+
+
+
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+1
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+
+
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" failed.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+1
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+
+
+Determining if the CUDA compiler works failed with the following output:
+Change Dir: C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_f3b56/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_f3b56.dir\build.make CMakeFiles/cmTC_f3b56.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CUDA object CMakeFiles/cmTC_f3b56.dir/main.cu.obj
+C:\PROGRA~1\NVIDIA~2\CUDA\v11.1\bin\nvcc.exe     -x cu -c C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu\cmake-build-debug\CMakeFiles\CMakeTmp\main.cu -o CMakeFiles\cmTC_f3b56.dir\main.cu.obj
+nvcc fatal   : Cannot find compiler 'cl.exe' in PATH
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_f3b56.dir\build.make:85: CMakeFiles/cmTC_f3b56.dir/main.cu.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_f3b56/fast] Error 2
+
+
+
+Determining if the CUDA compiler works failed with the following output:
+Change Dir: C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_45851/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_45851.dir\build.make CMakeFiles/cmTC_45851.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CUDA object CMakeFiles/cmTC_45851.dir/main.cu.obj
+C:\PROGRA~1\NVIDIA~2\CUDA\v11.1\bin\nvcc.exe -forward-unknown-to-host-compiler   -Xcompiler=-MDd   -x cu -c C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu\cmake-build-debug\CMakeFiles\CMakeTmp\main.cu -o CMakeFiles\cmTC_45851.dir\main.cu.obj -Xcompiler=-FdCMakeFiles\cmTC_45851.dir/,-FS
+main.cu
+Linking CUDA executable cmTC_45851.exe
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_45851.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_45851.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ld.exe /nologo CMakeFiles/cmTC_45851.dir/main.cu.obj  /out:cmTC_45851.exe /implib:cmTC_45851.lib /pdb:C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_45851.pdb /version:0.0   /debug /INCREMENTAL /subsystem:console  cudadevrt.lib cudart_static.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib  -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/lib/x64" "cudadevrt.lib" "cudart_static.lib" 
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_45851.dir/manifest.res CMakeFiles\cmTC_45851.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedmingw32-make.exe[1]: *** [CMakeFiles\cmTC_45851.dir\build.make:106: cmTC_45851.exe] Error -1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_45851/fast] Error 2
+
+
+
+Determining if the CUDA compiler works failed with the following output:
+Change Dir: C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_86b5f/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_86b5f.dir\build.make CMakeFiles/cmTC_86b5f.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CUDA object CMakeFiles/cmTC_86b5f.dir/main.cu.obj
+C:\PROGRA~1\NVIDIA~2\CUDA\v11.1\bin\nvcc.exe -forward-unknown-to-host-compiler   -Xcompiler=-MDd   -x cu -c C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu\cmake-build-debug\CMakeFiles\CMakeTmp\main.cu -o CMakeFiles\cmTC_86b5f.dir\main.cu.obj -Xcompiler=-FdCMakeFiles\cmTC_86b5f.dir/,-FS
+main.cu
+Linking CUDA executable cmTC_86b5f.exe
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_86b5f.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_86b5f.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ld.exe /nologo CMakeFiles/cmTC_86b5f.dir/main.cu.obj  /out:cmTC_86b5f.exe /implib:cmTC_86b5f.lib /pdb:C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_86b5f.pdb /version:0.0   /debug /INCREMENTAL /subsystem:console  cudadevrt.lib cudart_static.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib  -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/lib/x64" "cudadevrt.lib" "cudart_static.lib" 
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_86b5f.dir/manifest.res CMakeFiles\cmTC_86b5f.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedmingw32-make.exe[1]: *** [CMakeFiles\cmTC_86b5f.dir\build.make:106: cmTC_86b5f.exe] Error -1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_86b5f/fast] Error 2
+
+
+
+Determining if the CUDA compiler works failed with the following output:
+Change Dir: C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_fc014/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_fc014.dir\build.make CMakeFiles/cmTC_fc014.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CUDA object CMakeFiles/cmTC_fc014.dir/main.cu.obj
+C:\PROGRA~1\NVIDIA~2\CUDA\v11.1\bin\nvcc.exe -forward-unknown-to-host-compiler   -Xcompiler=-MDd   -x cu -c C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu\cmake-build-debug\CMakeFiles\CMakeTmp\main.cu -o CMakeFiles\cmTC_fc014.dir\main.cu.obj -Xcompiler=-FdCMakeFiles\cmTC_fc014.dir/,-FS
+main.cu
+Linking CUDA executable cmTC_fc014.exe
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_fc014.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_fc014.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ld.exe /nologo CMakeFiles/cmTC_fc014.dir/main.cu.obj  /out:cmTC_fc014.exe /implib:cmTC_fc014.lib /pdb:C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_fc014.pdb /version:0.0   /debug /INCREMENTAL /subsystem:console  cudadevrt.lib cudart_static.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib  -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/lib/x64" "cudadevrt.lib" "cudart_static.lib" 
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_fc014.dir/manifest.res CMakeFiles\cmTC_fc014.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedmingw32-make.exe[1]: *** [CMakeFiles\cmTC_fc014.dir\build.make:106: cmTC_fc014.exe] Error -1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_fc014/fast] Error 2
+
+
+

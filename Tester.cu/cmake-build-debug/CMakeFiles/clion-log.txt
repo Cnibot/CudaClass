@@ -1,0 +1,40 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu
+-- The CUDA compiler identification is NVIDIA 11.1.105
+-- Check for working CUDA compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe
+-- Check for working CUDA compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe - broken
+CMake Error at C:/Program Files/JetBrains/CLion 2020.3.1/bin/cmake/win/share/cmake-3.17/Modules/CMakeTestCUDACompiler.cmake:46 (message):
+  The CUDA compiler
+
+    "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/bin/nvcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_fc014/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_fc014.dir\build.make CMakeFiles/cmTC_fc014.dir/build
+    mingw32-make.exe[1]: Entering directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+    Building CUDA object CMakeFiles/cmTC_fc014.dir/main.cu.obj
+    C:\PROGRA~1\NVIDIA~2\CUDA\v11.1\bin\nvcc.exe -forward-unknown-to-host-compiler   -Xcompiler=-MDd   -x cu -c C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu\cmake-build-debug\CMakeFiles\CMakeTmp\main.cu -o CMakeFiles\cmTC_fc014.dir\main.cu.obj -Xcompiler=-FdCMakeFiles\cmTC_fc014.dir/,-FS
+    main.cu
+    Linking CUDA executable cmTC_fc014.exe
+    "C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_fc014.dir\link.txt --verbose=1
+    "C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_fc014.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ld.exe /nologo CMakeFiles/cmTC_fc014.dir/main.cu.obj  /out:cmTC_fc014.exe /implib:cmTC_fc014.lib /pdb:C:\Users\cnibo\Desktop\SchoolAndCode\Spring-2021\ParticleModeling\CudaHomework\Tester.cu\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_fc014.pdb /version:0.0   /debug /INCREMENTAL /subsystem:console  cudadevrt.lib cudart_static.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib  -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.1/lib/x64" "cudadevrt.lib" "cudart_static.lib" 
+    RC Pass 1: command "rc /fo CMakeFiles\cmTC_fc014.dir/manifest.res CMakeFiles\cmTC_fc014.dir/manifest.rc" failed (exit code 0) with the following output:
+    The system cannot find the file specifiedmingw32-make.exe[1]: *** [CMakeFiles\cmTC_fc014.dir\build.make:106: cmTC_fc014.exe] Error -1
+    mingw32-make.exe[1]: Leaving directory 'C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeTmp'
+    mingw32-make.exe: *** [Makefile:140: cmTC_fc014/fast] Error 2
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/cnibo/Desktop/SchoolAndCode/Spring-2021/ParticleModeling/CudaHomework/Tester.cu/cmake-build-debug/CMakeFiles/CMakeError.log".
